@@ -8,3 +8,5 @@ Instructions on how to execute:
 4. Update bootstrap.properties file with the corresponding datasource information
 5. Build with mvn package
 6. Execute with java -jar ms-config-server-0.0.1-SNAPSHOT.jar (under target directory)
+
+You may find the code for a ciient that loads configuration from a config server here: (https://github.com/angelikipap/ms-client)
